@@ -11,7 +11,7 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
     companion object {
-        const val KEY = "om.example.coffeeapp.KEY"
+        const val KEY = ""
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
